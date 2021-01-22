@@ -1,0 +1,82 @@
+.inner_body{
+    background-color: white; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 20px; 
+    display: block; 
+    width: 70%;
+    border: 5px green solid;
+    padding: 5px;
+    border-radius: 10px;
+}
+.btn{
+    background-color: black;
+    color: white;
+    padding: 35px;
+    margin: 10px;
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 3px green solid;
+    display: inline-block;
+    width: 47.5%;
+}
+.btn-2{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 3px green solid;
+    display: inline-block;
+    width: 47.5%;
+}
+.btn:hover{
+    background-color: green;
+    color: white;
+}
+.btn-2:hover{
+    background-color: green;
+    color: white;
+}
+table, th, td {
+    border: 1px solid black;
+}
+.inputs{ 
+    margin-right: 25%;
+    display: block; 
+    padding: 10px;
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.heading{
+    color: white;
+    font-size: large;
+    line-height: 0%;
+    margin-left: 10px;
+}
+.seq_head{
+    color: white;
+    font-size: 25px;
+    display: inline;
+    line-height: 0%;
+}
+.seq_head_2{
+    font-size: 25px;
+    display: inline-block;
+    line-height: 100%;
+    border: 3px green solid;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    padding: 10px;
+}
+.inp{
+    margin-top: 10px;
+    padding: 3px;
+    display: inline;
+    margin-bottom: -5px;
+}
